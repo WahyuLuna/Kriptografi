@@ -7,4 +7,11 @@
 <h4 align="left">Wahyu Luna WIjaya - 212086</h4>
 <h4 align="left">Putu Krisna Dana - 212074</h4>
 
-The implementation of the SHA-256 algorithm in digital data protection becomes important along with the development of information technology. This algorithm is used to ensure the integrity and authenticity of digital data. This study aims to apply the SHA-256 algorithm in digital data protection. The method used is literature study and algorithm implementation in programming languages.
+Implementasi algoritma SHA-256 dalam perlindungan data digital menjadi penting seiring dengan berkembangnya teknologi informasi. Algoritma ini digunakan untuk memastikan integritas dan keaslian data digital. Penelitian ini bertujuan untuk menerapkan algoritma SHA-256 dalam proteksi data digital. Metode yang digunakan adalah studi literatur dan implementasi algoritma pada bahasa pemrograman python.
+
+
+sebelum menggunakanmenjalankan file diatas, berikut beberapa module python yang harus diinstal
+
+```bash
+    pip install pycryptodome
+```
