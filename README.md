@@ -7,6 +7,4 @@
 <h4 align="left">Wahyu Luna WIjaya - 212086</h4>
 <h4 align="left">Putu Krisna Dana - 212074</h4>
 
-	<p align="left">
-
 The implementation of the SHA-256 algorithm in digital data protection becomes important along with the development of information technology. This algorithm is used to ensure the integrity and authenticity of digital data. This study aims to apply the SHA-256 algorithm in digital data protection. The method used is literature study and algorithm implementation in programming languages.
